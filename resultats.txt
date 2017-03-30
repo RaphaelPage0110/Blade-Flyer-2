@@ -1,0 +1,107 @@
+VRPA10.dat
+z = 3656.000000
+x5 = 1  :  [1, 3] de longueur 1222
+x25 = 1  :  [2, 7, 5] de longueur 1307
+x54 = 1  :  [6, 4, 8] de longueur 761
+x79 = 1  :  [9] de longueur 366
+
+Le powerset a mis 0.004164 secondes a se creer.
+GLPK a mis 0.002847 secondes a resoudre le probleme.
+Le code a mis 0.007011 secondes au total à s'executer.
+
+-------------------------------------------------------------
+VRPA15.dat
+z = 4735.000000
+x23 = 1  :  [1, 14] de longueur 282
+x31 = 1  :  [2, 5] de longueur 606
+x54 = 1  :  [3, 11, 4] de longueur 1294
+x148 = 1  :  [6, 7] de longueur 680
+x207 = 1  :  [8, 13, 12] de longueur 1266
+x211 = 1  :  [9, 10] de longueur 607
+
+Le powerset a mis 0.007807 secondes a se creer.
+GLPK a mis 0.005237 secondes a resoudre le probleme.
+Le code a mis 0.013044 secondes au total à s'executer.
+
+-------------------------------------------------------------
+VRPA20.dat
+z = 4818.000000
+x114 = 1  :  [1, 17] de longueur 571
+x187 = 1  :  [2, 6, 10] de longueur 515
+x334 = 1  :  [16, 3, 19] de longueur 800
+x390 = 1  :  [4, 13, 12] de longueur 577
+x439 = 1  :  [9, 5, 14] de longueur 763
+x546 = 1  :  [7, 8] de longueur 899
+x624 = 1  :  [11] de longueur 168
+x680 = 1  :  [15, 18] de longueur 525
+
+Le powerset a mis 0.050808 secondes a se creer.
+GLPK a mis 0.014693 secondes a resoudre le probleme.
+Le code a mis 0.065501 secondes au total à s'executer.
+
+-------------------------------------------------------------
+VRPA25.dat
+z = 5932.000000
+x141 = 1  :  [1, 20, 19] de longueur 832
+x381 = 1  :  [2, 24, 10, 7] de longueur 824
+x783 = 1  :  [3, 9, 15] de longueur 331
+x1080 = 1  :  [4, 8] de longueur 547
+x1470 = 1  :  [11, 5, 16] de longueur 1052
+x1900 = 1  :  [6, 18, 22] de longueur 937
+x2662 = 1  :  [12, 13, 23] de longueur 939
+x2793 = 1  :  [17, 14, 21] de longueur 470
+
+Le powerset a mis 1.502226 secondes a se creer.
+GLPK a mis 0.129565 secondes a resoudre le probleme.
+Le code a mis 1.631792 secondes au total à s'executer.
+
+-------------------------------------------------------------
+VRPA30.dat
+z = 7279.000000
+x189 = 1  :  [1, 14, 3, 27] de longueur 663
+x1065 = 1  :  [2, 12, 4] de longueur 711
+x5083 = 1  :  [5, 16, 17] de longueur 1073
+x5533 = 1  :  [6, 25, 28] de longueur 1053
+x5814 = 1  :  [10, 7, 15] de longueur 446
+x6796 = 1  :  [13, 21, 8, 26] de longueur 681
+x7209 = 1  :  [9, 24] de longueur 387
+x7791 = 1  :  [11, 19, 18] de longueur 1131
+x8947 = 1  :  [22, 20, 23] de longueur 978
+x912 = 1  :  [29] de longueur 156
+
+Le powerset a mis 52.591531 secondes a se creer.
+GLPK a mis 5.831372 secondes a resoudre le probleme.
+Le code a mis 58.422904 secondes au total à s'executer.
+
+-------------------------------------------------------------
+VRPB10.dat
+z = 2137.000000
+x64 = 1  :  [1, 3, 9, 8] de longueur 1037
+x143 = 1  :  [2, 4, 5, 7, 6] de longueur 1100
+
+Le powerset a mis 0.011282 secondes a se creer.
+GLPK a mis 0.009384 secondes a resoudre le probleme.
+Le code a mis 0.020667 secondes au total à s'executer.
+
+-------------------------------------------------------------
+VRPB15.dat
+z = 3080.000000
+x1365 = 1  :  [9, 1, 13, 11, 10] de longueur 1083
+x2123 = 1  :  [2, 8, 12, 6] de longueur 990
+x2401 = 1  :  [3, 7, 4, 14, 5] de longueur 1007
+
+Le powerset a mis 1.098965 secondes a se creer.
+GLPK a mis 0.204615 secondes a resoudre le probleme.
+Le code a mis 1.303581 secondes au total à s'executer.
+
+-------------------------------------------------------------
+VRPB20.dat
+z = 3682.000000
+x749 = 1  :  [4, 15, 2, 13, 1, 6, 7] de longueur 1534
+x26507 = 1  :  [11, 3, 14, 10, 17] de longueur 1210
+x35906 = 1  :  [5, 18, 8] de longueur 418
+x41485 = 1  :  [9, 12, 16, 19] de longueur 520
+
+Le powerset a mis 55.226971 secondes a se creer.
+GLPK a mis 367.055893 secondes a resoudre le probleme.
+Le code a mis 422.282866 secondes au total à s'executer.
